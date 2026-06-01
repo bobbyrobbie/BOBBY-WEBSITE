@@ -1,0 +1,11 @@
+table
+{background-color: green;
+ width:100%; color:white ;
+}
+body{
+	background-image:url("me.png");
+	 font-family: chiller;
+	 font-size: 25px;
+}
+a {
+color: yellow;}
